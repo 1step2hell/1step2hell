@@ -1,4 +1,19 @@
-### Hi there 👋
+
+<p>
+  <a href="https://github.com/1step2hell/">
+    <img width="50%" align="right" alt="1step2hell's github stats" src="https://github-readme-stats.vercel.app/api?username=1step2hell&show_icons=true&hide_border=true&theme=vue" />
+  </a>
+
+  <!-- Your languages and tools. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="excellent"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg" title="good"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" title="excellent"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" title="average"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" title="good"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="excellent"></code>
+</p>
 
 <!--
 **1step2hell/1step2hell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
